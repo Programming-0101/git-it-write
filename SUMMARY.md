@@ -4,7 +4,7 @@
 
 ----
 
-# Colophon
+# [Colophon](Colophon/ReadMe.md)
 
 * [Tools](Colophon/Tools.md)
 * [GitBook License](Colophon/LICENSES.md)
