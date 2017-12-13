@@ -8,3 +8,5 @@ I personally prefer [Visual Studio Code](code.visualstudio.com) (*VS Code*) as m
 
 * [Visual Studio Code Intro & Setup](https://youtu.be/fnPhJHN0jTE)
 
+# Setting up the Toolchain
+
