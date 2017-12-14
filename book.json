@@ -4,5 +4,10 @@
   "author": "Dan Gilleland",
   "isbn": "",
   "language": "en",
-  "plugins": ["katex", "mermaid-gb3", "exercises"]
+  "plugins": ["katex", "mermaid-gb3", "exercises","disqus"],
+  "pluginsConfig": {
+    "disqus": {
+        "shortName": "git-it-write"
+      }
+  }
 }
