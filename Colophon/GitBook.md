@@ -1,6 +1,6 @@
 # About GitBook
 
-## Installed Plugins
+## Installed Plugins <i class="fa fa-font-awesome" aria-hidden="true"></i>
 
 This site uses the following plugins:
 
@@ -10,7 +10,7 @@ This site uses the following plugins:
 - [KaTex](https://plugins.gitbook.com/plugin/katex)
 - [Exercises](https://plugins.gitbook.com/plugin/exercises)
   - JavaScript editor for doing exercises in the browser.
-
+- [Disqus](https://plugins.gitbook.com/plugin/disqus)
 
 ## Other [Community Plugins](https://plugins.gitbook.com/)
 
