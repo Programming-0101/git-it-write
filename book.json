@@ -3,6 +3,5 @@
   "description": "An exploration on a full (yet free) Markdown to HTML Markup Toolchain",
   "author": "Dan Gilleland",
   "isbn": "",
-  "language": "en",
-  "plugins": ["mermaid"]
+  "language": "en"
 }
