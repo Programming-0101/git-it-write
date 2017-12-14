@@ -4,5 +4,5 @@
   "author": "Dan Gilleland",
   "isbn": "",
   "language": "en",
-  "plugins": ["katex", "mermaid-gb3"]
+  "plugins": ["katex", "mermaid-gb3", "exercises"]
 }
