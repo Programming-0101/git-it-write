@@ -18,8 +18,9 @@
 
 ----
 
-## [Colophon](Colophon/ReadMe.md)
+## Colophon
 
+* [About](Colophon/ReadMe.md)
 * [Tools](Colophon/Tools.md)
 * [GitBook](Colophon/GitBook.md)
 * [GitBook License](Colophon/LICENSES.md)
