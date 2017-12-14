@@ -11,7 +11,8 @@ The desired goals are:
   - [x] *Git* for version control
   - [x] *GitHub* for hosting the cloud repository
   - [x] *GitHub Pages* for hosting the static website
-  - [ ] Support for *mermaid* diagrams such as *flowcharts*, *sequence diagrams*, *gantt charts*, etc.
+  - [x] Support for *mermaid* diagrams such as *flowcharts*, *sequence diagrams*, *gantt charts*, etc.
+  - [x] Support for *math equations*
   - [ ] Clean content navigation in the code repository (no mis-match between links navigating the repository content and links on the generated static website)
 - [ ] Control Over Publishing
   - [ ] Holding content in "draft" form prior to publishing

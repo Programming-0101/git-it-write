@@ -1,6 +1,8 @@
 # Mathematical Equations
 
-[MathJax](https://www.mathjax.org/) is a beautiful expression of mathematical equations/expressions for use in the browser. There is an [official existing plug-in for GitBook](https://github.com/GitbookIO/plugin-mathjax) to process [MathJax from markdown](https://plugins.gitbook.com/plugin/mathjax).
+> $$\Huge E = mc^2$$
+
+There are various tools for generating mathematical equations. One of the first that you may encounter in your search is [**MathJax**](https://www.mathjax.org/). This site uses [**KaTex**](https://khan.github.io/KaTeX/), mostly due to its claim of being faster than MathJax when rendering in the browser.
 
 ## Demos
 
@@ -8,7 +10,7 @@
 
 > When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 + bx + c = 0){% endmath %} and they are {% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath %}
 
-**`$$` Shortcut**
+**Shortcut with &dollar;&dollar;**
 
-> When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+> When $$ a \ne 0 $$, there are two solutions to $$ (ax^2 + bx + c = 0) $$ and they are $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$.
 
