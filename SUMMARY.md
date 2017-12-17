@@ -8,6 +8,7 @@
 * [Sequence Diagrams](demo/sequenceDiagrams.md)
 * [Flowcharts](demo/flowcharts.md)
 * [Gantt Charts](demo/gantt.md)
+* [Combining Content](demo/combining.md)
 
 ## Syntax Highlighting
 
